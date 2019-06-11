@@ -1,12 +1,65 @@
-
 {
-  "num": 20,
-  "page": 3,
-  "code": 0,
-  "message": "@cparagraph()",
-  "result|1-20": [
-    {
-      "title|1-6": "我是标题 ",
-    }
-  ]
+  "msg": "true",
+  "num": "10",
+  "res": {
+    "vertical": [
+      {
+        "number": "0",
+        "views": 0,
+        "ncos": 0,
+        "rank": 3,
+        "tag": [],
+        "id": "5cb45fc3e7bce75e2ae8ed9a",
+        "desc": "",
+        "cid": [
+          "4e4d610cdf714d2966000000"
+        ],
+        "rule": "?imageMogr2/thumbnail/!$<Width>x$<Height>r/gravity/Center/crop/$<Width>x$<Height>",
+        "store": "user"
+      },
+      {
+        "number": 2,
+        "views": 0,
+        "ncos": 0,
+        "rank": 131,
+        "tag": [],
+        "id": "5cb45fc4e7bce75e0214c75f",
+        "desc": "question",
+        "cid": [
+          "4e4d610cdf714d2966000000"
+        ],
+        "url": [],
+        "store": "user"
+      },  
+      {
+        "number": 3,
+        "views": 0,
+        "ncos": 1,
+        "rank": 629,
+        "tag": [],
+        "id": "5cb48c57e7bce75e91a077ff",
+        "desc": "question",
+        "cid": [
+          "4e4d610cdf714d2966000000"
+        ],
+        "url": [],
+        "rule": "?imageMogr2/thumbnail/!$<Width>x$<Height>r/gravity/Center/crop/$<Width>x$<Height>",
+        "store": "user"
+      },
+      {
+        "number": 4,
+        "views": 0,
+        "ncos": 3,
+        "rank": 2045,
+        "tag": [],
+        "id": "5c51744be7bce75e40ba227a",
+        "desc": "question",
+        "cid": [
+          "4e4d610cdf714d2966000000"
+        ],
+        "url": [],
+        "store": "user"
+      }
+    ]
+  }
 }
