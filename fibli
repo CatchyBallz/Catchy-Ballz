@@ -1,8 +1,8 @@
 {
-  "msg": "true",
-  "num": "10",
+  "num": "2",
+  "page": "4",
   "res": {
-    "vertical": [
+    "user": [
       {
         "number": "0",
         "views": 0,
@@ -18,7 +18,7 @@
         "store": "user"
       },
       {
-        "number": 2,
+        "number": 1,
         "views": 0,
         "ncos": 0,
         "rank": 131,
@@ -32,7 +32,7 @@
         "store": "user"
       },  
       {
-        "number": 3,
+        "number": 2,
         "views": 0,
         "ncos": 1,
         "rank": 629,
@@ -47,7 +47,7 @@
         "store": "user"
       },
       {
-        "number": 4,
+        "number": 3,
         "views": 0,
         "ncos": 3,
         "rank": 2045,
